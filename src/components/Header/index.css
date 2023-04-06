@@ -1,0 +1,33 @@
+.head-para {
+  font-size: 20px;
+  font-family: 'Roboto';
+  color: #1e293b;
+}
+.button {
+  font-size: 14px;
+  font-family: 'Roboto';
+  color: #ffffff;
+  background-color: #0967d2;
+  border-radius: 6px;
+  border-width: 0px;
+  outline: none;
+  padding: 10px;
+}
+.web-logo {
+  height: 40px;
+  width: 170px;
+}
+.text-cont {
+  list-style-type: none;
+  padding-left: 0px;
+  margin-left: 0px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 300px;
+}
+.head-cont {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
